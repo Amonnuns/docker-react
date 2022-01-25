@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ramon BACKENDDEVELOPER
+          Ramon BACKENDDEVELOP
         </a>
       </header>
     </div>
